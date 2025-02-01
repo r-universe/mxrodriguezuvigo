@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DDPstar"]
+	path = DDPstar
+	url = https://github.com/cran/DDPstar
 [submodule "ROCnReg"]
 	path = ROCnReg
 	url = https://github.com/cran/ROCnReg
